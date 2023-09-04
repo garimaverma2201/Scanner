@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Document Scanner</string>
+    <string name="capture_your_receipt">Capture Your Document</string>
+    <string name="choose_receipt_from_gallery">Choose Document From Gallery</string>
+    <string name="crop">Crop</string>
+    <string name="capture_receipt">Capture Document Demo</string>
+    <string name="crop_receipt">Crop Document</string>
+    <string name="review_receipt">Review Document</string>
+</resources>
